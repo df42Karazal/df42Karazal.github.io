@@ -1,0 +1,138 @@
+commit 8ff58aa4540a7158cffd773937a8408586c8b4bd
+Author: df42Karazal <176348199+df42Karazal@users.noreply.github.com>
+Date:   Thu Jan 23 17:37:39 2025 -0300
+
+    New installation way I guess
+    also s32 insertion
+    lw fix
+    input insertion
+    correspondingChar is useless
+    
+    Signed-off-by: df42Karazal <176348199+df42Karazal@users.noreply.github.com>
+
+commit 1e5763721e45332ade158ce59fd2c19a125d61ae
+Author: df42Karazal <176348199+df42Karazal@users.noreply.github.com>
+Date:   Thu Jan 23 03:21:01 2025 -0300
+
+    readme and the clock
+
+commit 231defae5cd5a5365b23e3f96fa3012aac041d8c
+Merge: 4759681 dec3973
+Author: df42Karazal <176348199+df42Karazal@users.noreply.github.com>
+Date:   Thu Jan 23 03:20:44 2025 -0300
+
+    Merge branch 'main' into kernel
+
+commit 4759681236a5815a2dbf3e0e95f891e279482cef
+Author: df42Karazal <176348199+df42Karazal@users.noreply.github.com>
+Date:   Wed Jan 22 22:40:52 2025 -0300
+
+    lss than 0 fix
+
+commit dec39737cf3653e5b3b9c05d71c6becc142cc739
+Author: df42Karazal <176348199+df42Karazal@users.noreply.github.com>
+Date:   Wed Jan 22 00:35:32 2025 -0300
+
+    justified option 4
+    rem c:\
+    fixed bom thing
+
+commit 2e9bee3110c099cd90f0cfb1ce31658e447c5c33
+Author: df42Karazal <176348199+df42Karazal@users.noreply.github.com>
+Date:   Wed Jan 22 00:06:52 2025 -0300
+
+    ?
+
+commit ed0dafb8b0d93e39b74922870768946077b55cbb
+Author: df42Karazal <176348199+df42Karazal@users.noreply.github.com>
+Date:   Wed Jan 22 00:05:46 2025 -0300
+
+    readme upd
+
+commit 03e08a2db44bca1391a35e2796c20f56f7f20b06
+Author: df42Karazal <176348199+df42Karazal@users.noreply.github.com>
+Date:   Wed Jan 22 00:06:29 2025 -0300
+
+    readme upd
+
+commit d09e64aaf3e42caa9362fae591f468114ad117ab
+Merge: 13c9877 74f5121
+Author: df42Karazal <176348199+df42Karazal@users.noreply.github.com>
+Date:   Tue Jan 21 23:56:27 2025 -0300
+
+    Merge pull request #3 from df42Karazal/kernel
+    
+    please merge
+
+commit 74f5121a6f492fab787a47f22dfceb89ee3b3928
+Merge: 7cd5bb2 13c9877
+Author: df42Karazal <176348199+df42Karazal@users.noreply.github.com>
+Date:   Tue Jan 21 23:56:11 2025 -0300
+
+    please merge
+
+commit 7cd5bb202326f1e6167a5bb3a1bf7ab36733f6d3
+Author: df42Karazal <176348199+df42Karazal@users.noreply.github.com>
+Date:   Tue Jan 21 23:53:42 2025 -0300
+
+    please merge
+
+commit 13c9877e20abeecb0184bca9b3761704520657d6
+Author: df42Karazal <176348199+df42Karazal@users.noreply.github.com>
+Date:   Tue Jan 21 23:45:02 2025 -0300
+
+    compiled em all [theCpart]
+    
+    Signed-off-by: df42Karazal <176348199+df42Karazal@users.noreply.github.com>
+
+commit defadfab57ea4ad6a91bc4ee6b0818974f173caa
+Merge: 4d8f781 9dae59a
+Author: df42Karazal <176348199+df42Karazal@users.noreply.github.com>
+Date:   Tue Jan 21 23:27:45 2025 -0300
+
+    Merge pull request #2 from df42Karazal/kernel
+    
+    trig Kernel
+
+commit 9dae59aaf397f86a0636203cbc21c7bde6df8995
+Author: df42Karazal <176348199+df42Karazal@users.noreply.github.com>
+Date:   Tue Jan 21 23:25:01 2025 -0300
+
+    ..
+
+commit a8f3590bd12f9e33480ea12fead75ecc67fc6270
+Author: df42Karazal <176348199+df42Karazal@users.noreply.github.com>
+Date:   Tue Jan 21 23:24:56 2025 -0300
+
+    trigonometry 1
+
+commit 4d8f781c8fb063af0b92e8d24ba4f0d147baf722
+Author: df42Karazal <176348199+df42Karazal@users.noreply.github.com>
+Date:   Mon Jan 20 02:07:56 2025 -0300
+
+    Create README.md
+
+commit 1f865434aafb39bd278d5247acd736e57b88ed8b
+Merge: 6edcf52 6979ed3
+Author: df42Karazal <176348199+df42Karazal@users.noreply.github.com>
+Date:   Mon Jan 20 01:48:45 2025 -0300
+
+    Merge pull request #1 from df42Karazal/kernel
+    
+    the funny bitwise
+
+commit 6979ed362f6a6c037cfcb904f74c97eddbf81cb2
+Author: df42Karazal <176348199+df42Karazal@users.noreply.github.com>
+Date:   Mon Jan 20 01:31:50 2025 -0300
+
+    the funny bitwise
+    
+    Signed-off-by: df42Karazal <176348199+df42Karazal@users.noreply.github.com>
+
+commit 6edcf52921aa00a11d3a8b450770aefab0a37a7d
+Author: df42Karazal <176348199+df42Karazal@users.noreply.github.com>
+Date:   Sun Jan 19 23:21:01 2025 -0300
+
+    copy * from vm
+    
+    Signed-off-by: df42Karazal <176348199+df42Karazal@users.noreply.github.com>
