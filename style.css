@@ -1,15 +1,35 @@
-.test {
-    color:calc(75% - 25%);
+#lineargr {
     text-align:center;
-    font-size: 20px;
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    border: 1px solid #ccc;
-    border-radius: 5px;
+    background: linear-gradient(#7a47a3, #40b387);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing:content-box;
     padding: 10px;
-    margin: 10px;
-    box-shadow: 0 0 5px rgba(0,0,0,0.1);
-    shape-outside: circle(50%);
-    shape-margin: 20px;
-    shape-image-threshold: 0.5;
+    margin: 4ch;
+    padding-bottom: 3%;
+    color: whitesmoke;
+    box-shadow: inset;
+    text-rendering: optimizeLegibility;
+    font-size: 20px;
+    shape-margin: 10px;
+    shape-rendering: crispEdges;
+    shape-image-threshold: circle(30%);
+}  
+
+#text {
+    text-align:center;
+    shape-margin: 0cqmin;
+    font-family: 'Courier New', Courier, monospace;
+    padding:0dvb;
+    margin: 4px;
+    font-size:25px;;
+    font-weight: 700;
+    font-style: italic;
+    text-rendering: optimizeLegibility;
+    color: rgb(75, 1, 134);
+    
+
+}
+
+#text:hover {
+    text-shadow: #0a6e31d7 3px 2px 1px;
 }
