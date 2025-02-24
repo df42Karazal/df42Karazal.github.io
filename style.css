@@ -1,0 +1,15 @@
+.test {
+    color:calc(75% - 25%);
+    text-align:center;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    shape-outside: circle(50%);
+    shape-margin: 20px;
+    shape-image-threshold: 0.5;
+}
