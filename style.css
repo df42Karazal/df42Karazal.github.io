@@ -33,3 +33,9 @@
 #text:hover {
     text-shadow: #0a6e31d7 3px 2px 1px;
 }
+
+a:visited {
+    color: blue;
+    text-decoration: none;
+}
+}
